@@ -1,0 +1,28 @@
+Succesful send
+Succesful send
+Succesful send
+grp members: user3,user2,user4user3
+user2
+user4
+Succesful send
+grp members: user3,user2,user6user3
+user2
+user6
+INVALID USERS LIST
+Succesful send
+1023
+Succesful send
+1023
+Succesful send
+1023
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
+Succesful send
