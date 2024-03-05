@@ -497,9 +497,7 @@ int main(int argc, char* argv[]) {
         pthread_attr_init(&attr); 
         pthread_create(&threadID[clientNum], &attr, runner, (void*)info);
         pthread_detach(threadID[clientNum]);
-        // sem_wait(&updtClientNum);
         clientNum += 1;
-        // sem_post(&updtClientNum);
         char listOfClients[1024];
         makeList(listOfClients);
         bcstLIST(listOfClients);
