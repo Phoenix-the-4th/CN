@@ -5,7 +5,7 @@ void ser_test(unsigned char ans[], unsigned char* buffer, int size)
 {
     printf("Serialized buffer:\n");
     int c = size;
-    char* m = buffer;
+    unsigned char* m = buffer;
     while(c--){
         printf("0x%02x ", *(m++));
     }
